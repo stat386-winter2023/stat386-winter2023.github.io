@@ -7,11 +7,11 @@ url: ''
 baseurl: #/426-21-blog
 
 # Title of the Site
-title: Stat 426 - Fall 2021
+title: Stat 396 - Fall 2022
 # Description of the Site
-description: Class Blog and Projects
+description: Data Science Process
 # URL of Image of the Site
-site-image: /assets/images/david-clode-vb-3qEe3rg8-unsplash.jpg # /assets/images/logo.png
+site-image: /assets/images/yellow.jpg # /assets/images/logo.png
 # Keywords of the Site
 site-keywords: BYU, Data Science, Projects
 # URL for the Image of custom Favicon
@@ -19,7 +19,7 @@ favicon-url:
 
 # URL of the Image of Custom Hero Image (i.e., the image in the background of the very first section of the Homepage)
 #heroimage: https://images.pexels.com/photos/220444/pexels-photo-220444.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940
-heroimage: /assets/images/david-clode-vb-3qEe3rg8-unsplash.jpg
+heroimage: /assets/images/yellow.jpg
 
 # Social Media and Contact
 # If you don't want to use any icon, you can leave them blank.
@@ -45,12 +45,12 @@ disqus-shortname:
 author-name: Stat 426 Class
 # URL for the Image of the Author
 author-image: /assets/images/logo.png
-author-image-alt: /assets/images/david-clode-vb-3qEe3rg8-unsplash.jpg #/assets/images/Stat426.png
+author-image-alt: /assets/images/yellow2.jpg #/assets/images/Stat426.png
 # 60 Words About the Author
-author-about: Statistics 426 is a class taught in the Statistics Department at Brigham Young University.  In this class, we cover the data science pipeline including collecting and wrangling data, version control, analyzing, evaluating and interpreting machine learning models, and ethics and bias.  The class this semester is taught by Shannon Tass.  
+author-about: Statistics 386 is a class taught in the Statistics Department at Brigham Young University.  In this class, we cover the data science process including collecting and wrangling data, version control, exploratory data analysis, visualization, ethics and bias.  The class this semester is taught by Shannon Tass.  
 
 author-about-small:  Data science methods and applications
-author-url: https://github.com/stat426-fall2021
+author-url: https://github.com/stat386-fall2022
 
 # SASS
 sass:
