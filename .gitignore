@@ -5,3 +5,4 @@ _site/
 .DS_store
 .Rproj.user
 .ipynb_checkpoints/
+*.pptx
