@@ -2,24 +2,26 @@
 markdown: kramdown
 
 # URL of the Site
-url: ''
+url: 'stat386-winter2023.github.io'
 # Base URL of the Site (i.e., Name of the Repository in which the Site is hosted)
 baseurl: #/426-21-blog
 
 # Title of the Site
-title: Stat 386 - Fall 2022
+title: BYU Stat 386 - Fall 2023
+subtitle: Data Science Process
 # Description of the Site
-description: Data Science Process
+description: This is a site the organizes all of our class blogs.
 # URL of Image of the Site
 site-image: /assets/images/yellow.jpg # /assets/images/logo.png
 # Keywords of the Site
 site-keywords: BYU, Data Science, Projects
 # URL for the Image of custom Favicon
 favicon-url:
+copyright: E. Shannon Neeley-Tass
 
 # URL of the Image of Custom Hero Image (i.e., the image in the background of the very first section of the Homepage)
 #heroimage: https://images.pexels.com/photos/220444/pexels-photo-220444.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940
-heroimage: /assets/images/yellow.jpg
+heroimage: /assets/images/landscape.png
 
 # Social Media and Contact
 # If you don't want to use any icon, you can leave them blank.

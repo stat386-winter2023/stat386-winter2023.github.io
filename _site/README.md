@@ -1,4 +1,4 @@
-# Stat 426 Blog and Project Site.  
+# Stat 386 Blog and Project Site.  
 
 This site was adapted from **WhatATheme**
 
