@@ -2,9 +2,9 @@
 markdown: kramdown
 
 # URL of the Site
-url: ''
+url: 'https://stat386-winter2023.github.io'
 # Base URL of the Site (i.e., Name of the Repository in which the Site is hosted)
-baseurl: #/426-21-blog
+baseurl: '' #/426-21-blog
 
 # Title of the Site
 title: BYU Stat 386 - Fall 2023
